@@ -1,11 +1,11 @@
 Flask==2.3.3
 Flask-CORS==4.0.1
 Pillow==10.3.0
-torch==2.2.0
-torchvision==0.17.0
-ultralytics==8.2.0
-opencv-python-headless==4.9.0.80
-numpy==1.26.4
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.148
+opencv-python-headless==4.8.0.74
+numpy==1.24.3
 Werkzeug==3.0.3
 requests==2.31.0
 gunicorn==21.2.0
